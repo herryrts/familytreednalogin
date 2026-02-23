@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://familytreednalogin.readthedocs.io/en/latest/
